@@ -1,0 +1,10 @@
+com\brasileiras\entity\NotaFiscal.class
+com\brasileiras\entity\Usuario.class
+com\brasileiras\repository\NotaFiscalRepository.class
+com\brasileiras\repository\UsuarioRepository.class
+com\brasileiras\EcommerceApiApplication.class
+com\brasileiras\controller\NotaFiscalController.class
+com\brasileiras\repository\ProdutoRepository.class
+com\brasileiras\controller\UsuarioController.class
+com\brasileiras\controller\ProdutoController.class
+com\brasileiras\entity\Produto.class
